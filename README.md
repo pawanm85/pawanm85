@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawan maske</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer </h3>
 <img align="right" alt="Coding" width="300" src="https://th.bing.com/th/id/OIP.hQR3_tCL_phZgIK80wnOcAHaFj?w=285&h=214&c=7&r=0&o=5&dpr=1.3&pid=1.7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanm85&label=Profile%20views&color=0e75b6&style=flat" alt="pawanm85" /> </p>
